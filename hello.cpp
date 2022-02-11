@@ -3,6 +3,7 @@
 int main()
 {
 	printf("helloo\n");
+	printf("second\n");
 
 	return 0;
 }
